@@ -28,7 +28,5 @@ public class raycast : MonoBehaviour
         {
             distanciaAlvo = raioInformacao.distance;
         }
-
-
     }
 }
