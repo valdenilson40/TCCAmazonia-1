@@ -2564,7 +2564,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1876352488}
   m_LocalRotation: {x: 0.13852672, y: -0.00000002951499, z: 0.000000004128418, w: 0.9903587}
-  m_LocalPosition: {x: 0, y: -0.0000019073486, z: 0}
+  m_LocalPosition: {x: 0, y: -0.0000009536743, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 291689891}
@@ -3119,7 +3119,7 @@ GameObject:
   - component: {fileID: 6571282318024742228}
   - component: {fileID: 757685500560681401}
   - component: {fileID: 499653643960227354}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11521,7 +11521,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4232899937642365831}
   m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: 12.13899, y: 0, z: -12.13899}
+  m_LocalPosition: {x: 12.18, y: 0, z: -12.13899}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2239700560646155400}
